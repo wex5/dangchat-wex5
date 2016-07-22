@@ -1,0 +1,18 @@
+[submodule "dangchat-server"]
+	path = dangchat-server
+	url = git@github.com:wex5/dangchat-server.git
+[submodule "dangchat-sdk"]
+	path = dangchat-sdk
+	url = git@github.com:wex5/dangchat-sdk.git
+[submodule "dangchat-client"]
+	path = dangchat-client
+	url = git@github.com:wex5/dangchat-client.git
+[submodule "dangchat-desktop"]
+	path = dangchat-desktop
+	url = git@github.com:wex5/dangchat-desktop.git
+[submodule "wex5-org"]
+	path = wex5-org
+	url = git@github.com:wex5/wex5-org.git
+[submodule "wex5-work"]
+	path = wex5-work
+	url = git@github.com:wex5/wex5-work.git
