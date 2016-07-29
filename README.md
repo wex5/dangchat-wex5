@@ -59,6 +59,10 @@ CRM、HR、PM、SCM……各行各业，各类业务，无缝接入，一站式�
 
 铛铛绿色安装部署包[(点击下载)](http://www.wex5.com/downloads/)：无需安装，解压即可运行，内含多端支持；
 
+### 铛铛完整代码包
+
+铛铛完整代码包[(点击下载)](https://yun.baidu.com/s/1bp9M0Jt)
+
 ### 特别说明
 
 本产品的IM-Server是基于著名的开源IM软件-Actor.im开发而来，由于Actor.im于2016年5月13日将其开源协议由Apache改为AGPL，为了避免可能发生的协议疑问， **铛铛IM-Server将坚持基于2016年5月13日之前的Actor.im代码进行开发，以确保铛铛一直保持Apache开源！** 开发者们请放心使用！
