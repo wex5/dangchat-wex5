@@ -64,8 +64,9 @@ CRM、HR、PM、SCM……各行各业，各类业务，无缝接入，一站式�
 
 ### 在线支持  
 **铛铛技术支持微信号**   
-![铛铛技术支持微信号](http://git.oschina.net/uploads/images/2016/0801/140002_fb8292c4_326111.png "铛铛技术支持微信号")  
-**铛铛技术支持QQ群**：499214780
+![铛铛技术支持微信号](http://git.oschina.net/uploads/images/2016/0801/140002_fb8292c4_326111.png "扫码添加")  
+**铛铛技术支持QQ群**  
+![铛铛技术支持QQ群](http://git.oschina.net/uploads/images/2016/0804/124904_bcef5d5a_326111.png "扫码加入")
 
 ### 铛铛安装部署包
 
